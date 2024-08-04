@@ -6,7 +6,6 @@ An easy-to-use tool for checking and testing APIs, designed to streamline your A
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Overview
 
